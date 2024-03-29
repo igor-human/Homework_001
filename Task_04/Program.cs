@@ -3,7 +3,7 @@ using System.Drawing;
 using System.Text;
 
 // Домашнє завдання №1
-// Завдання 3
+// Завдання 4
 
 namespace Classes
 {
