@@ -9,7 +9,7 @@ namespace Classes
 {
     class Program
     {
-        class Rectangle
+        class Rectangle //Даний клас повинен бути у своєму файлі Rectangle.cs
         {
             private double side1, side2;
 
